@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_image"
+        android:checked="true"
+        android:title="@string/menu_image"
+        android:icon="@drawable/ic_image" />
+    <item android:id="@+id/action_all"
+        android:title="@string/menu_all"
+        android:icon="@drawable/ic_all" />
+    <item android:id="@+id/action_demo"
+        android:title="@string/menu_demo"
+        android:icon="@drawable/ic_demo" />
+    <item android:id="@+id/action_mime"
+        android:title="@string/menu_mine"
+        android:icon="@drawable/ic_mine" />
+</menu>

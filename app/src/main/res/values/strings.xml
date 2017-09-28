@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gank</string>
+    <string name="menu_all">全部</string>
+    <string name="menu_mine">我的</string>
+    <string name="menu_image">福利</string>
+    <string name="menu_demo">例子</string>
+</resources>
